@@ -1,12 +1,6 @@
 # Basic HTML & HTML5
--- Coded with 💗 by Stefanie Feltman
 
 ## Social Media
-[FreeCodeCamp](https://www.freecodecamp.org/stefaniedev) |
-[GitHub](https://github.com/stefaniedev) |
-[LinkedIn](https://www.linkedin.com/in/stefaniefeltman/) |
-[Twitter](https://twitter.com/stefaniedev) |
-[CodePen](https://codepen.io/stefaniedev/)
 
 
 ## Say Hello to HTML Elements 
